@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"unam.model","l":"ExpressShipping"},{"p":"unam.model","l":"InternationalShipping"},{"p":"unam.model","l":"RegularShipping"},{"p":"unam.model","l":"ShippingDistance"},{"p":"unam.model","l":"ShippingStrategy"}];updateSearchResults();
